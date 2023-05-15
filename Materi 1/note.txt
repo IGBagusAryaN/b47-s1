@@ -1,0 +1,12 @@
+<-- Github Versioning Control Value -->
+
+<- Newly Use Repository ->
+-git init
+-git add .
+-git commit -m "ur message"
+-git remote add remote_name branch_name(master)
+
+<- Editing Repository ->
+-git add .
+-git commit -m "ur message"
+-git remote add remote_name branch_name(master)
